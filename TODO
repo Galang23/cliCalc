@@ -1,0 +1,26 @@
+v1.3:
+	1. Copy and paste message from original C#
+	2. Detect the args[1]. Like `$ cliCalc +` will run Tambah();
+
+v2.0:
+	1. Support x^2, 4^8, 4^x.
+	2. Model:
+		a. Programme ask user to input the square
+		b. User input the value of square
+		c. Programme ask user for will be squared number
+		d. User inputs it
+		e. Programme calculate result and print it
+		f. Exit with status 0
+		 ______________________________________________________
+		|galang@mint ~ $ cliCalc															|
+		|cliCalc, Simple Calculator for CLI												|
+		|Pilih Mode <+|-|*|/|^>: ^																|
+		|Perpangkatan																			|
+		|a = 4																						|
+		|Pangkat berapa ? 2																	|
+		|4^2 = 16																					|
+		|Exit status 0																				|
+		|galang@mint ~ $																		|
+		|______________________________________________________ |
+
+

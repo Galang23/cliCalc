@@ -1,0 +1,26 @@
+cliCalC++ CHANGELOG File by Galang2.
+Model pemberian versi: Major.minor.build.jumlahBugsFixed
+Setiap kali ada fitur baru yang tidak berhubungan dengan versi major sebelumnya,
+maka versi major akan naik 1
+
+v1.0:
+    1. Create function Tambah(); Kurang(); Kali(); Bagi();
+    2. Made in Indonesian language, created at around November 2016
+
+v1.1:
+    1. Added message, and selection mode when sarting program
+    2. Message improvement
+    3. Still in Indonesian language, created at end of November 2016
+
+v1.2:
+    1. Add new functions to return to the function, or simply I Created functions
+       to continue calculation
+    2. Add Copyright and License to it
+	3. Created and Compiled at 24 Desember 2016
+	|
+	1.2.5:
+		Fix Bug: 1. The value of a after *Ulang(); is the same as previous a. Fixed in the same day 
+	
+	1.2.6:
+		New: Sekarang bisa melanjutkan aktivitas aritmatika sebelumnya secara berantai. 24 Desember 2016
+		Improve output messages

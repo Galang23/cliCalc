@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Compiling main.cpp for cliCalc..."
+g++ main.cpp -o cliCalc
